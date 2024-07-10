@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import OwlCarousel from 'react-owl-carousel';
+import { ParallaxProvider, Parallax } from 'react-scroll-parallax';
 
 function MainPage() {
   return (
